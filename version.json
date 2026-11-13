@@ -1,0 +1,9 @@
+{
+  "app": "JERRY DATA CENTER",
+  "version": "1.4.1",
+  "script": "latest.js",
+  "release": "releases/v1.4.1.js",
+  "minimumLauncherVersion": "1.0.0",
+  "notes": "OTA baseline v1.4.1",
+  "updatedAt": "2026-11-13"
+}
